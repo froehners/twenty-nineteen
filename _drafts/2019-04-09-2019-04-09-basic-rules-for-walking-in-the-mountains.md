@@ -1,7 +1,7 @@
 ---
 title: FiveSixTwo, Inc. Agency Website
 date: 2017-12-31 08:00:00 +0000
-thumb_img_path: "/images/562_featured.jpg"
+thumb_img_path: ''
 content_img_path: images/1.jpg
 excerpt: Adapted a Google Design sprint to launch the FiveSixTwo company website.
   Contributed the visual content and wrote case studies. Used bootstrap to create
@@ -12,28 +12,107 @@ subtitle: Google Design Sprint
 hide_header: false
 
 ---
-![Hiking](/images/2.jpg)
+This [website](http://www.fivesixtwo.com/), still in beta, is my company’s first attempt at an adapted [Google Design Sprint](http://www.gv.com/sprint/).
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+### Day 1: Map out the Problem and Choose a Focus
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+My CEO and I discussed long-term goals for the company's website and chose our target.
 
-## Long Distance Hiking
+1. Target: Get more clients
+2. Focus: Client makes contact (fills out the form or makes a phone call).
 
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
+### Day 2: Rapid Sketching Solutions on Paper
 
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
+I spent the next phase sketching different ideas.
 
-## Equipment
+We decided to explore the following:
 
-The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
+* How fast can we generate leads (make contact)?
+* What should be the website's point of view? What will get more quality leads?
+  * Partnership - What are they looking for?
+  * Our process/our values
+  * Products/technology expertise
 
-> Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
+### Day 3: Storyboard and Pick Solutions
 
-Proponents of ultralight backpacking argue that long lists of required items for multi-day hikes increases pack weight, and hence fatigue and the chance of injury. Instead, they recommend reducing pack weight, in order to make hiking long distances easier. Even the use of hiking boots on long-distances hikes is controversial among ultralight hikers, because of their weight.
+We narrowed down the sketches to 3 different ideas.
 
-## Environmental Impact
+1. Prototype 1: Experimental Form
+   * A large conversational form instead of a hero image
+   * Quick description of our process, how it relates to a client
+   * Testimonials
+   * About Us with photo
+2. Prototype 2: Process Oriented
+   * Shows how we work and what we value
+   * Content rich interior pages
+   * Lots of process photos
+3. Prototype 3: Goal Oriented
+   * Animated header cycling through "Build and Scale Software, Solve Complex Problems, Reach Your Goals"
+   * Highlights 4 projects, with project pages
+   * Graphs/data heavy
+   * Company bio in footer
 
-Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
+### Day 4: Prototype
 
-Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
+I made [Prototype 1](https://sfroehner.github.io/Round1-a/) with Bootstrap and Typeform and [Prototype 2](https://invis.io/RV7BQNKKQ) and [Prototype 3](https://invis.io/UN79DZLCB) with InVision.
+
+### Day 5 and Beyond: Testing
+
+I wrote a screener for UserTesting.com and ran several rounds of user tests for the 3 prototypes. This round rigidly explored how we should present our point of view.
+
+#### Results:
+
+##### Prototype 1: Experimental Form
+
+* This was the only form that was clicked on and completed. Contact form on top of the homepage was very unique, surprising, and memorable.
+* Implementation of the form was confusing. I used a free version of Typeform, and their branding after submission confused users and caused them to leave the site. Also, the services dropdown in the form was not as clear as it needs to be.
+* Ambiguous about our services.
+* Blog wasn't very clear about our personal ideas.
+
+##### Prototype 2: Process Oriented
+
+* Showing our step by step process makes the company seem very approachable and "human"
+* Photo heavy style seems consumer, not business, facing.
+* Testimonials give more credibility
+* Ambiguous about who we are and what we did for clients.
+
+##### Prototype 3: Goal Oriented
+
+* Including shots of our work made our intended audience/niche market very clear.
+* There was some ambiguity about our services. Project names were also unclear (mistook them for companies we worked for).
+* Project pages need more content, like testimonials, screenshots, and our process.
+* Browsing experience was disjointed. Users wanted to see a traditional "Services" and "About" pages.
+
+#### Overall:
+
+* Credibility on all 3 was low. We need more content.
+* Need an About page
+  * People want a personal connection to the team
+  * Show the team's faces
+  * Explain company name
+* Could benefit from a more traditional navigation, with clear Services and About Us links.
+* Link testimonials to actual products or companies.
+* All 3 prototypes had positive reactions. Users basically wanted to see all this content when searching for an agency.
+* The Bootstrap prototype tested better than the InVision prototypes.
+
+#### Round 2:
+
+I took the findings from Round 1 and I used Bootstrap to make a [larger website](http://beta.fivesixtwo.com/) that included the effective parts from each prototype. I wrote 4 case studies, talking to developers and the CEO as needed. For this round, I also had users review two competitor sites.
+
+##### Findings:
+
+* Users spend most of their time on the homepage.
+* All claims and testimonials need sources.
+* Consider more transparency in pricing or consultation fees. This was one of our competitor's biggest strengths. Users felt more comfortable knowing the price. This could increase quality leads.
+* Keeping the site updated regularly and having social media links add authenticity.
+* Users would also Google companies too see if anyone has posted anything about them on social media or message boards.
+* The form from the first prototype is still memorable as "really clever" and a surprising "human touch." It is now on a Contact page and we have a paid version of Typeform so users stay on the site and are no longer confused.
+* FiveSixTwo "branding" (it was not branded) is too generic.
+
+#### Round 3
+
+We want more user tests on this round. While we are testing I will work with a developer to make the Bootstrap prototype a "real" website. Now that we are close to satisfied with the content, I will work on the branding.
+
+* **Date:** Ongoing
+* **Client:** FiveSixTwo, Inc.
+* **Categories:** UX/UI, Interaction Design, Prototyping, User Testing
