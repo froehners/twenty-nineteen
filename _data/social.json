@@ -1,22 +1,15 @@
 {
   "links": [
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/"
+      "title": "Tumblr",
+      "icon": "fa-tumblr",
+      "url": "https://frey-ner.tumblr.com/"
     },
     {
       "type": "instagram",
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/froehner/"
-    },
-    {
-      "type": "github",
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/"
     },
     {
       "type": "linkedin",
