@@ -10,25 +10,10 @@ sections:
   templates:
   - config
 - type: document
-  path: _data/social.json
-  label: Social Links
-  templates:
-  - social
-- type: document
-  path: _data/author.json
-  label: Author
-  templates:
-  - author
-- type: document
   path: index.md
   label: Home
   templates:
   - home
-- type: document
-  path: contact.md
-  label: Contact
-  templates:
-  - contact
 - type: directory
   path: ''
   label: Page
@@ -42,6 +27,21 @@ sections:
   create: all
   templates:
   - post
+- type: document
+  path: contact.md
+  label: Contact
+  templates:
+  - contact
+- type: document
+  path: _data/author.json
+  label: Author
+  templates:
+  - author
+- type: document
+  path: _data/social.json
+  label: Social Links
+  templates:
+  - social
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
