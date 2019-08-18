@@ -1,20 +1,18 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
-menus:
+subtitle: I'm a designer.
+img_path: "/images/hanyolo1.jpg"
+layout: page
+menu:
   main:
     title: About
     weight: 2
-layout: page
+
 ---
+I'm passionate about user experience, interactive design, and solving problems. I love research, content strategy and designing for performance. My experience includes responsive web design, iBooks and mobile apps, YouTube partner content, content management systems, and branding. From micro-interactions to large content-driven systems, I love purposeful design.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+> You are a warrior with alligator blood. You're setting an awesome example for the rest of the team of 'do whatever it takes to win.' <cite>Jason Calacanis</cite>
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I'm seeking a position where I can be a part of a collaborative team that values prototyping, iteration and solving problems with data driven design. I want to work for a company that believes in web accessibility and designing with empathy. Also, I really like dogs.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+_Thank you for reading!_
