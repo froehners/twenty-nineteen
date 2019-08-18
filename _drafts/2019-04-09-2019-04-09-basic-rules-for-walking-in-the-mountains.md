@@ -2,7 +2,7 @@
 title: FiveSixTwo, Inc. Agency Website
 date: 2017-12-31 08:00:00 +0000
 thumb_img_path: ''
-content_img_path: images/1.jpg
+content_img_path: "/images/562_team-lg@2x.jpg"
 excerpt: Adapted a Google Design sprint to launch the FiveSixTwo company website.
   Contributed the visual content and wrote case studies. Used bootstrap to create
   a prototype for testing. Wrote the screener and user tests for our focused market.
@@ -12,7 +12,9 @@ subtitle: Google Design Sprint
 hide_header: false
 
 ---
-This [website](http://www.fivesixtwo.com/), still in beta, is my company’s first attempt at an adapted [Google Design Sprint](http://www.gv.com/sprint/).
+FiveSixTwo’s first attempt at a [Google Design Sprint](http://www.gv.com/sprint/).
+
+![The FiveSixTwo website is shown on 4 different devices.](/images/562-1.png "FiveSixTwo website preview")
 
 ### Day 1: Map out the Problem and Choose a Focus
 
@@ -37,16 +39,16 @@ We decided to explore the following:
 
 We narrowed down the sketches to 3 different ideas.
 
-1. Prototype 1: Experimental Form
+1. **Prototype 1: Experimental Form**
    * A large conversational form instead of a hero image
    * Quick description of our process, how it relates to a client
    * Testimonials
    * About Us with photo
-2. Prototype 2: Process Oriented
+2. **Prototype 2: Process Oriented**
    * Shows how we work and what we value
    * Content rich interior pages
    * Lots of process photos
-3. Prototype 3: Goal Oriented
+3. **Prototype 3: Goal Oriented**
    * Animated header cycling through "Build and Scale Software, Solve Complex Problems, Reach Your Goals"
    * Highlights 4 projects, with project pages
    * Graphs/data heavy
@@ -109,10 +111,10 @@ I took the findings from Round 1 and I used Bootstrap to make a [larger website]
 * The form from the first prototype is still memorable as "really clever" and a surprising "human touch." It is now on a Contact page and we have a paid version of Typeform so users stay on the site and are no longer confused.
 * FiveSixTwo "branding" (it was not branded) is too generic.
 
-#### Round 3
+#### Round 3 and Beyond
 
-We want more user tests on this round. While we are testing I will work with a developer to make the Bootstrap prototype a "real" website. Now that we are close to satisfied with the content, I will work on the branding.
+I worked with a developer to make the Bootstrap prototype a "real" website. FiveSixTwo brought in a Sales Director to add more content, a blog, and a Field Service landing page/site experience.
 
-* **Date:** Ongoing
+* **Date:** 2016 - 2017
 * **Client:** FiveSixTwo, Inc.
 * **Categories:** UX/UI, Interaction Design, Prototyping, User Testing
