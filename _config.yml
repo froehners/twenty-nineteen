@@ -6,7 +6,7 @@ palette: yellow
 header:
   title: "[ frey · ner ]"
   tagline: product design, teamwork, performance!
-  logo_img: images/logo.png
+  logo_img: ''
   bg_img: "/images/froehner.jpg"
   has_nav: true
   has_social: true
