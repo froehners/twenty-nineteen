@@ -4,6 +4,16 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5d56fe8ee1d6980011c6f0ca/webhook/forestry
 sections:
+- type: directory
+  path: _sass/imports/_general.scss
+  label: _general scss
+  create: all
+  match: "**/*"
+- type: directory
+  path: _sass/imports/_header.scss
+  label: _header scss
+  create: all
+  match: "**/*"
 - type: document
   path: _config.yml
   label: Global Site Config
