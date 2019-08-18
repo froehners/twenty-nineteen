@@ -1,11 +1,6 @@
 {
   "links": [
     {
-      "title": "Tumblr",
-      "icon": "fa-tumblr",
-      "url": "https://frey-ner.tumblr.com/"
-    },
-    {
       "type": "instagram",
       "title": "Instagram",
       "icon": "fa-instagram",
@@ -15,7 +10,12 @@
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "url": "https://www.linkedin.com/in/sfroehner/"
+    },
+    {
+      "title": "Tumblr",
+      "icon": "fa-tumblr",
+      "url": "https://frey-ner.tumblr.com/"
     }
   ]
 }
