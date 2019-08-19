@@ -19,10 +19,10 @@ I interacted with our audience through YouTube comments, emails and social media
 
 My visual design roles in this project include designing thumbnails for each YouTube video (taking into account the various device and viewport sizes of YouTube), creating and maintaining the website, so viewers could download the .pdf content, and creating assets for the social media accounts.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/1rcqwRgVvvw](https://www.youtube.com/embed/1rcqwRgVvvw "https://www.youtube.com/embed/1rcqwRgVvvw")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rcqwRgVvvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/aZY0A6E_t_8](https://www.youtube.com/embed/aZY0A6E_t_8 "https://www.youtube.com/embed/aZY0A6E_t_8")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aZY0A6E_t_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/miTPjiHmDos](https://www.youtube.com/embed/miTPjiHmDos "https://www.youtube.com/embed/miTPjiHmDos")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/miTPjiHmDos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/HChusFnyVzE](https://www.youtube.com/embed/HChusFnyVzE "https://www.youtube.com/embed/HChusFnyVzE")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HChusFnyVzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
