@@ -77,8 +77,8 @@
 }
 
 .menu {
-  border-bottom: 1px dashed _palette(primary);
-  font-weight: bold;
+  border-bottom: 4px dotted #FFB9B5;
+  font-family: 'Shrikhand', cursive;
   line-height: 1.5;
   list-style: none;
   margin: 0;
@@ -86,8 +86,8 @@
 }
 
 .menu-item {
-  border-top: 1px dashed _palette(primary);
-  padding: 0.5em 0;
+  border-top: 4px dotted #FFB9B5;
+  padding: 0.6em 0;
 
   a {
     border: 0;
