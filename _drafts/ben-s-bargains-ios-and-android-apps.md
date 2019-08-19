@@ -4,7 +4,7 @@ title: Ben's Bargains iOS and Android Apps
 subtitle: Internet Brands' Mobile Deal Aggregator
 date: 2015-12-31 08:00:00 +0000
 thumb_img_path: ''
-content_img_path: ''
+content_img_path: "/images/bb_iOS_V1_Loading.png"
 excerpt: ''
 hide_header: false
 
@@ -13,18 +13,22 @@ Ben's Bargains had a poor mobile experience. They had mobile version of the site
 
 I designed iOS and Android applications, currently available on [Google Play](https://play.google.com/store/apps/details?id=com.internetbrands.bensbargains&hl=en) and in the [App Store.](https://itunes.apple.com/us/app/bens-bargains-shopping-for/id986201093?mt=8)
 
+## Android Prototype: 
+
 <iframe src="https://marvelapp.com/ad2064?emb=1&iosapp=false&frameless=false" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
 
-[https://invis.io/UGXFBAH7](https://invis.io/UGXFBAH7 "https://invis.io/UGXFBAH7")
+## iOS Prototype
 
-### PROJECT GOALS
+<iframe width="438" height="930" src="//invis.io/5CTI9DSD3ER" frameborder="0" allowfullscreen></iframe>
+
+### Project Goals
 
 * Have a better user experience than current design solutions
 * Be competitive in the coupon/online deal marketplace
 * Drive participation in deal alerts (and push notifications)
 * Increase mobile traffic and daily users.
 
-### RESPONSIBILITIES
+### Responsibilities
 
 * Designed user flows
 * Created InVision prototypes
@@ -33,7 +37,7 @@ I designed iOS and Android applications, currently available on [Google Play](ht
 * Delivered final assets
 * Created marketing/promotional material.
 
-### REFLECTION
+### Reflection
 
 These apps presented several new challenges for me. This was the first time I worked with developers in different timezones. Also, I took this project over from another designer and the project transferred owners. The previous designer did not pass on her research and I remade all her Photoshop screens in Sketch.
 
