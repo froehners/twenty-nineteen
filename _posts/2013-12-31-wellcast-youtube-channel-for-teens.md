@@ -28,3 +28,7 @@ I interacted with our audience through YouTube comments, emails and social media
 My visual design roles in this project include designing thumbnails for each YouTube video (taking into account the various device and viewport sizes of YouTube), creating and maintaining [the website](https://watchwellcast.tumblr.com/), so viewers could download the .pdf content, and creating assets for the social media accounts.
 
 ![WellCast's website](/images/wellcastTumblr.webp "WellCast Website")
+
+* **Date:** 2013
+* **Client:** Mahalo
+* **Category:** Content Strategy, User Experience, Product Design, Visual Design
