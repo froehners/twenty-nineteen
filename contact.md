@@ -9,4 +9,4 @@ menu:
     weight: 2
 
 ---
-To get in touch fill the form below.
+Hi there! Fill the form below or hit me up on [LinkedIn](https://www.linkedin.com/in/sfroehner/) like a normal person. 
