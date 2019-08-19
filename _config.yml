@@ -1,11 +1,11 @@
 ---
-title: Portfolio of Stephanie Froehner
+title: Stephanie Froehner - Senior UX / Product Designer
 baseurl: "/"
 permalink: "/:title/"
 palette: yellow
 header:
   title: "[ frey · ner ]"
-  tagline: product design, teamwork, performance!
+  tagline: Product design, teamwork, performance!
   logo_img: ''
   bg_img: "/images/froehner.jpg"
   has_nav: true
