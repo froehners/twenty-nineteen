@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultimate Coupons - Responsive Redesign
+title: Ultimate Coupons Responsive Redesign
 subtitle: Internet Brands' Coupon & Shopping Website
 date: 2015-12-31 08:00:00 +0000
 thumb_img_path: ''
