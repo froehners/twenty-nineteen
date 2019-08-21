@@ -1,18 +1,18 @@
 ---
 title: FiveSixTwo, Inc. Agency Website
-date: 2017-12-31 08:00:00 +0000
+date: 2017-12-31T08:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/562_team-lg@2x.jpg"
-excerpt: Adapted a Google Design sprint to launch the FiveSixTwo company website.
-  Contributed the visual content and wrote case studies. Used bootstrap to create
-  a prototype for testing. Wrote the screener and user tests for our focused market.
-  Reviewed testing videos and interpreted results, optimizing for form completion.
+excerpt: 'FiveSixTwo wanted to build a web presence and grow their clientele. I adapted
+  a Google Design sprint process to build and test three concepts. I worked on the
+  content, built wireframes and prototypes, and made a bootstrap website to test.
+  We tested concepts with quantitative and qualitative user testing. '
 layout: post
 subtitle: Google Design Sprint
 hide_header: false
 
 ---
-FiveSixTwo’s first attempt at a [Google Design Sprint](http://www.gv.com/sprint/).
+[FiveSixTwo's website](http://www.fivesixtwo.com/) and my first time conducting a [Google Design Sprint](http://www.gv.com/sprint/).
 
 ![The FiveSixTwo website is shown on 4 different devices.](/images/562-1.png "FiveSixTwo website preview")
 
@@ -66,6 +66,8 @@ I wrote a screener for UserTesting.com and ran several rounds of user tests for 
 
 ##### Prototype 1: Experimental Form
 
+![Prototype 1: Experimental Form - previewed on a MacBook Air](/images/562-1-1.png)
+
 * This was the only form that was clicked on and completed. Contact form on top of the homepage was very unique, surprising, and memorable.
 * Implementation of the form was confusing. I used a free version of Typeform, and their branding after submission confused users and caused them to leave the site. Also, the services dropdown in the form was not as clear as it needs to be.
 * Ambiguous about our services.
@@ -73,12 +75,16 @@ I wrote a screener for UserTesting.com and ran several rounds of user tests for 
 
 ##### Prototype 2: Process Oriented
 
+![Prototype 2: Process Oriented - previewed on a MacBook.](/images/562-2.png)
+
 * Showing our step by step process makes the company seem very approachable and "human"
 * Photo heavy style seems consumer, not business, facing.
 * Testimonials give more credibility
 * Ambiguous about who we are and what we did for clients.
 
 ##### Prototype 3: Goal Oriented
+
+![Prototype 3: Goal Oriented - previewed on a MacBook](/images/562-3.png)
 
 * Including shots of our work made our intended audience/niche market very clear.
 * There was some ambiguity about our services. Project names were also unclear (mistook them for companies we worked for).
