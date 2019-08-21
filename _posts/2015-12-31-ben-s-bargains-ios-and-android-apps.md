@@ -6,9 +6,9 @@ date: 2015-12-31T08:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/bb_iOS_V1_Loading.png"
 excerpt: Ben's Bargains did not have a consistent brand experience across all devices.
-  They had an mDot version of the site (not responsive design) and a fan-made app
-  in the App Store.  I designed the official iOS and Android applications, currently
-  available on Google Play and in the App Store.
+  They had an mDot version of the site and a fan-made app in the App Store.  I designed
+  the official iOS and Android applications, currently available on Google Play and
+  in the App Store.
 hide_header: false
 
 ---
