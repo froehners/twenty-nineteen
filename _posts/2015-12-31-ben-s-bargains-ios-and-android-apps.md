@@ -5,11 +5,14 @@ subtitle: Internet Brands' Mobile Deal Aggregator
 date: 2015-12-31T08:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/bb_iOS_V1_Loading.png"
-excerpt: ''
+excerpt: Ben's Bargains did not have a consistent brand experience across all devices.
+  They had an mDot version of the site (not responsive design) and a fan-made app
+  in the App Store.  I designed iOS and Android applications, currently available
+  on Google Play and in the App Store.
 hide_header: false
 
 ---
-Ben's Bargains had a poor mobile experience. They had mobile version of the site (a limited template, not responsive design) and a fan-made app in the App Store.
+Ben's Bargains did not have a consistent brand experience across all devices. They had an mDot version of the site (not responsive design) and a fan-made app in the App Store.
 
 I designed iOS and Android applications, currently available on [Google Play](https://play.google.com/store/apps/details?id=com.internetbrands.bensbargains&hl=en) and in the [App Store.](https://itunes.apple.com/us/app/bens-bargains-shopping-for/id986201093?mt=8)
 
@@ -39,13 +42,15 @@ I designed iOS and Android applications, currently available on [Google Play](ht
 
 ### Reflection
 
-These apps presented several new challenges for me. This was the first time I worked with developers in different timezones. Also, I took this project over from another designer and the project transferred owners. The previous designer did not pass on her research and I remade all her Photoshop screens in Sketch.
+These apps presented several new challenges for me. This was the first time I worked with developers in different timezones. Also, I took this project over from another designer and the project transferred owners. 
 
-Having no design documentation or standard design applications meant. I learned the value of clear communication and requirements gathering.
+Having no design documentation or consistent project files meant I learned the value of clear communication and requirements gathering.
 
-I fell in love with Material Design designing the Android app.
+I fell in love with Material Design (which was fairly new at the time) designing the Android app.
 
-**Roles in this project:** Visual and Interaction design, strategy, wireframes/layout, in collaboration with the shopping and mobile teams. _Note: the app has been updated since I left the company._
+**Roles in this project:** Visual and Interaction design, strategy, wireframes/layout, in collaboration with the shopping and mobile teams. 
+
+_Note: the app has been updated since I left the company._
 
 * **Date:** May 2014 - December 2015
 * **Client:** Internet Brands
