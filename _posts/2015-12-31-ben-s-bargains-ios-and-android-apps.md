@@ -2,7 +2,7 @@
 layout: post
 title: Ben's Bargains iOS and Android Apps
 subtitle: Internet Brands' Mobile Deal Aggregator
-date: 2015-12-31 08:00:00 +0000
+date: 2015-12-31T08:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/bb_iOS_V1_Loading.png"
 excerpt: ''
@@ -13,13 +13,13 @@ Ben's Bargains had a poor mobile experience. They had mobile version of the site
 
 I designed iOS and Android applications, currently available on [Google Play](https://play.google.com/store/apps/details?id=com.internetbrands.bensbargains&hl=en) and in the [App Store.](https://itunes.apple.com/us/app/bens-bargains-shopping-for/id986201093?mt=8)
 
-## Android Prototype: 
+## Android Prototype:
 
-<iframe src="https://marvelapp.com/ad2064?emb=1&iosapp=false&frameless=false" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
+<iframe src="https://marvelapp.com/ad2064?emb=1&iosapp=false&frameless=false" title="Marvel Prototype" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
 
 ## iOS Prototype
 
-<iframe width="438" height="930" src="//invis.io/5CTI9DSD3ER" frameborder="0" allowfullscreen></iframe>
+<iframe width="438" height="930" title="InVision Prototype" src="//invis.io/5CTI9DSD3ER" frameborder="0" allowfullscreen></iframe>
 
 ### Project Goals
 
