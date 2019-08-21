@@ -7,14 +7,14 @@ thumb_img_path: ''
 content_img_path: "/images/bb_iOS_V1_Loading.png"
 excerpt: Ben's Bargains did not have a consistent brand experience across all devices.
   They had an mDot version of the site (not responsive design) and a fan-made app
-  in the App Store.  I designed iOS and Android applications, currently available
-  on Google Play and in the App Store.
+  in the App Store.  I designed the official iOS and Android applications, currently
+  available on Google Play and in the App Store.
 hide_header: false
 
 ---
-Ben's Bargains did not have a consistent brand experience across all devices. They had an mDot version of the site (not responsive design) and a fan-made app in the App Store.
+[Ben's Bargains](https://bensbargains.com) did not have a consistent brand experience across all devices. They had an mDot version of the site and a fan-made app in the App Store.
 
-I designed iOS and Android applications, currently available on [Google Play](https://play.google.com/store/apps/details?id=com.internetbrands.bensbargains&hl=en) and in the [App Store.](https://itunes.apple.com/us/app/bens-bargains-shopping-for/id986201093?mt=8)
+I designed the official iOS and Android applications, currently available on [Google Play](https://play.google.com/store/apps/details?id=com.internetbrands.bensbargains&hl=en) and in the [App Store.](https://itunes.apple.com/us/app/bens-bargains-shopping-for/id986201093?mt=8)
 
 ## Android Prototype:
 
