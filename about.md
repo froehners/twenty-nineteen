@@ -1,11 +1,10 @@
 ---
-title: About Me
+title: About
 subtitle: I'm a designer.
 img_path: "/images/hanyolo1-1.jpg"
 layout: page
 menu:
   main:
-    title: About
     weight: 2
 
 ---
@@ -13,6 +12,6 @@ I'm passionate about user experience, interactive design, and solving problems. 
 
 > You are a warrior with alligator blood. You're setting an awesome example for the rest of the team of 'do whatever it takes to win.' <cite>Jason Calacanis</cite>
 
-I'm seeking a position where I can be a part of a collaborative team that values prototyping, iteration and solving problems with data driven design. I want to work for a company that believes in web accessibility and designing with empathy. Also, I really like dogs.
+I'm seeking a position where I can be a part of a collaborative team that values prototyping, iteration and solving problems with data driven design. I want to work for a company that believes in web accessibility and designing with empathy. Also, I play roller derby and I _really_ like dogs.
 
 _Thank you for reading!_
