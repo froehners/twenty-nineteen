@@ -2,14 +2,16 @@
 layout: post
 title: Ultimate Coupons Responsive Redesign
 subtitle: Internet Brands' Coupon & Shopping Website
-date: 2015-12-31 08:00:00 +0000
+date: 2015-12-31T08:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/UC_Merchant_1340-V2b.png"
-excerpt: ''
+excerpt: Ultimate Coupons offers coupons and deals for a variety of stores. The redesign
+  needed to balance some quirky stakeholder requirements, user needs, and web best
+  practices.
 hide_header: false
 
 ---
-Ultimate Coupons offers coupons and deals for a variety of stores. The target audience is women in their 30s. Ultimate Coupons also has a blog with a variety of content types.
+Ultimate Coupons offers coupons and deals for a variety of stores. The redesign needed to balance some quirky stakeholder requirements, user needs, and web best practices. The target audience is women in their 30s. Ultimate Coupons also has a blog with a variety of content types.
 
 ![Store page shown on various devices.](/images/uc_merchant.webp "Merchant Page")
 
