@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: I'm a designer.
-img_path: "/images/hanyolo1.jpg"
+img_path: "/images/hanyolo1-1.jpg"
 layout: page
 menu:
   main:
