@@ -12,7 +12,7 @@ hide_header: false
 ---
 [WellCast](https://www.youtube.com/watchwellcast) was a twice-a-week animated show that explored the physical, mental and emotional paths to wellness. The show began as journaling exercises based on wellness trends, but quickly grew into a show for anxious youngsters unsure about growing up.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/1rcqwRgVvvw](https://www.youtube.com/embed/1rcqwRgVvvw "https://www.youtube.com/embed/1rcqwRgVvvw")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rcqwRgVvvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 WellCast thrived on our connection with the audience; YouTube users are very vocal about what they like (or don't like), so we tailored our content to our beloved ‘WellCasters’ requests.
 
