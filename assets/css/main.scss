@@ -3,7 +3,7 @@
 
 // Font.
 $font: (
-  primary: ("Playfair Display", serif)
+  primary: ("Source Serif Pro", serif)
 );
 
 // Palette.
@@ -34,3 +34,5 @@ $palette: (
 @import "imports/animations";
 @import "imports/palettes";
 @import "imports/banner";
+
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap');
