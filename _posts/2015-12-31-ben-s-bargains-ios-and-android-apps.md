@@ -34,7 +34,7 @@ I designed the official iOS and Android applications, currently available on [Go
 
 ### Android Prototype
 
-<iframe src="[https://marvelapp.com/ad2064?emb=1&iosapp=false&frameless=false](https://marvelapp.com/ad2064?emb=1&iosapp=false&frameless=false "https://marvelapp.com/ad2064?emb=1&iosapp=false&frameless=false")" title="Marvel Prototype" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
+<iframe src="https://marvelapp.com/ad2064?emb=1&iosapp=false&frameless=false" title="Marvel Prototype" width="390" height="755" allowTransparency="true" frameborder="0"></iframe>
 
 ### iOS Prototype
 
