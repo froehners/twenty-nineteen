@@ -11,7 +11,8 @@ hide_header: false
 ---
 # Background
 
-* Broadly, our research has shown people want quizzes or recommendation wizards to narrow down the different legal services they may need. For Intellectual Property (IP) LegalZoom has a simple 1-question “Help me decide'' tool on the IP Category page. Testing participants would often be excited to see the tool, but find the actual experience and recommendations disappointing.
+* Broadly, our research has shown people want quizzes or recommendation wizards to narrow down the different legal services they may need.
+* For Intellectual Property (IP) LegalZoom has a simple 1-question “Help me decide'' tool on the IP Category page. Testing participants would often be excited to see the tool, but find the actual experience and recommendations disappointing.
 * This work was done in concert with a case study project for [Smashing Magazine Behavioral Design Workshop](https://smashingconf.com/online-workshops/workshops/susan-guthrie-weinschenk) (highly recommended!)
 
 ## Goals & Requirements
@@ -72,14 +73,13 @@ hide_header: false
 
 ## Customer Research
 
-1. **Card Sorting.** I picked about 20 commonly protected works from the United States Patent and Trademark Office, various online services, included us. (Examples: photograph, process, book, invention, logo, song) and asked participants to sort the cards into groups and answer a short survey
+1. **Card Sorting.** I picked about 20 commonly protected works from the United States Patent and Trademark Office, various online services, included us, (e.g. photograph, process, book, invention, logo, song) and asked participants to sort the cards into groups and answer a short survey.
    1. **Phase 1: Open**
       * "Art" cards were overwhelmingly the easiest for folks. Second was business - sometimes called “branding”
-      * Seeing all the cards in groups helped solidify their classification (which reminds me of partitioning/the power of groups from the workshop)
+      * Seeing all the cards in groups helped solidify their classification _(which reminds me of partitioning/the power of groups from the workshop)_
    2. **Phase 2: Hybrid**
-      * Open results were tested with Hybrid card sorting
-      * I provided 3 categories. The first two categories were clear winners from the Open Card Sorting, the 3rd was experimental.
-      * Things that would require patents emerged as the hardest IP to categorize.
+      * I provided 3 categories from the Open results. The first two categories were clear winners from the Open Card Sorting, the 3rd was experimental.
+      * Works that would require patents emerged as the hardest IP to categorize. (Low patent numbers  site analytics too)
 2. **Prototyping.** The team decided to use the questionnaire component of the existing design system. The variations are content-driven.
    1. **Version 1: Optimized**
       * Keep the 1-question flow, but reduce the number of options to broad categories and add descriptions.
@@ -91,19 +91,24 @@ hide_header: false
       * Hypotheses:
         1. If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience.
         2. We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
-3. **Unmoderated Tests.** First round is focused on our largest audience: future small business owners. The pages before and after the “Help me decide” experience - including the results pages were identical. Participants only saw one version and the results from the two studies were compared. 
+3. **Unmoderated Tests.** First round is focused on our largest audience: future small business owners. The pages before and after the “Help me decide” experience - including the results pages were identical. Participants only saw one version and the results from the two studies were compared.
    1. Version 1 participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
    2. Version 2’s NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!
    3. Our recommendation on the results page isn’t enough to convince people.
 
 ### Reflection & Next Steps
 
-I thought these results were wild! We clearly need to tinker and continue to test with both versions. 
+I thought these results were wild! We clearly need to tinker and continue to test with both versions.
 
 * How can we reduce the error rate on Version 1?
-* What are some other ways we can partition user groups? We successfully reduced errors, but how can we increase confidence and improve the experience of Version 2?
-* We need to brainstorm and test different ways people can validate their results (e.g. articles/faqs, statistics, real-life examples or case studies)
+* What are some other ways we can partition the choices?
+* We successfully reduced errors, but how can we increase confidence and improve the experience of Version 2?
+* Explore different ways people can validate their results (e.g. articles/faqs, statistics, real-life examples or case studies)
 
-Next round of unmoderated tests should include more audiences and their goals. When we get comfortable with the 2 versions, we’ll move on to moderated interviews with highly qualified participants and eventually roll out to development and A/B testing.
+Expand the next round of unmoderated tests to include more audiences. When we get comfortable with the 2 versions, we’ll move on to moderated testing and eventually roll out to development and A/B testing.
 
 In the meantime, for the first phase of the redesign, we started with a logo change and updated the most confusing terms.
+
+* **Timeline:** \~4 weeks in Q3 2020, Phase 2 is scheduled for Q1 2021
+* **Team composition:** Copywriter, attorney, product marketer and 2 product designers
+* **Role:** Research, Product/UX Design
