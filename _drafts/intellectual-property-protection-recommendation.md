@@ -47,6 +47,7 @@ hide_header: false
   * It’s difficult to predict content when there is no order
 * Icons have inconsistent levels of complexity. The more complicated icons are too difficult to break down into [geons](https://en.wikipedia.org/wiki/Geon_(psychology)#:\~:text=Geons%20are%20the%20simple%202D,of%20objects%20in%20the%20brain.), which would allow customer brains to recognize the icon quicker.
 * Language may not match how customers classify their work.
+
 * Results page
   * Users expect to see reasoning behind the results. Expect to be aided in decisions. Not all results provide a clear recommendation or a way to decide on a product
   * Pricing and packages and LegalZoom’s role are not clear on results page
