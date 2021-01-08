@@ -49,6 +49,7 @@ hide_header: false
   * Users expect to see reasoning behind the results. Expect to be aided in decisions. Not all results provide a clear recommendation or a way to decide on a product
   * Pricing and packages and LegalZoom’s role are not clear on results page
   * Do users expect to find out what protection our IP services offer, timelines, and level of effort?
+* Results page
 
 ### Data
 
