@@ -40,14 +40,14 @@ hide_header: false
 
 ### Behavioral Design Workshop Evaluation
 
-![](/images/original-q1.jpg)
+![title asks "What would you like to protect?" each of the 9 options has an icon and a label](/images/og-q1.jpg "original experience")
 
 * Currently an unordered group of 9 items
   * Studies have shown people make decisions easier with less choices
   * It’s difficult to predict content when there is no order
 * Icons have inconsistent levels of complexity. The more complicated icons are too difficult to break down into [geons](https://en.wikipedia.org/wiki/Geon_(psychology)#:\~:text=Geons%20are%20the%20simple%202D,of%20objects%20in%20the%20brain.), which would allow customer brains to recognize the icon quicker.
 * Language may not match how customers classify their work.
-
+  ![Screenshot of a results with 2 equally weighted suggestions](/images/og-results.jpg "combination trademark copyright")
 * Results page
   * Users expect to see reasoning behind the results. Expect to be aided in decisions. Not all results provide a clear recommendation or a way to decide on a product
   * Pricing and packages and LegalZoom’s role are not clear on results page
@@ -55,7 +55,7 @@ hide_header: false
 
 ### Data
 
-* Roughly 30% get the “Trademark” result, 15% get “Copyright” result and 14% of people get the combination “Trademark and Copyright” result; the numbers get smaller from there.
+* Roughly 30% get the “Trademark” result, 15% get “Copyright” result and 14% of people get the combination “Trademark and Copyright” result ![](/images/combophtb.jpg "do you remember the Das Racist song about the combination Pizza Hut Taco Bell?"); the numbers get smaller from there.
   * Either there is less appetite for patents or does the experience suppresses that choice
 * About 20% of the traffic clicked back or on the logo to go to the homepage. This tells me they didn’t want to answer the question, “What would you like to protect?” but also didn’t want to leave LegalZoom
   * The options might be too specific (they don’t see exactly what they are trying to protect) or too difficult to understand (what exactly counts as an industrial design?).
