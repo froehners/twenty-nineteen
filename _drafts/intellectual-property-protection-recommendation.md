@@ -101,7 +101,7 @@ I picked about 20 commonly protected works from the United States Patent and Tra
 
 ### 2. Prototyping
 
-The variations are content-driven; the team decided to use the existing questionnaire component of the  design system.  
+The variations are content-driven; the team decided to use the existing questionnaire component of the  design system.
 
 #### Version 1: Optimized
 
@@ -111,17 +111,24 @@ The variations are content-driven; the team decided to use the existing question
 * **Hypotheses:**
   * Participants will be more successful if we reduce the number of options. The legal team and copywriters felt comfortable combining the “Art” choices since most of the card sorting participants always grouped those together.
   * Educating the users with descriptions and friendlier language will clarify the options. The confusing cards from the card sorting study were added as examples in the descriptions.
-* **Version 2: Experimental**
+
+#### Version 2: Experimental
+
+![](/images/hmd-v2.png)
+
 * Make a 2-question flow, partition people into roles (business owner, artist, or inventor) and have more specific choices on the second screen.
 * **Hypotheses:**
-* If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience. 2. We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
+  * If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience.
+  * We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
 
 ### Unmoderated Tests.
 
 First round is focused on our largest audience: future small business owners. The pages before and after the “Help me decide” experience - including the results pages were identical. Participants only saw one version and the results from the two studies were compared.
-Version 1 participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
-Version 2’s NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!
-Our recommendation on the results page isn’t enough to convince people.
+
+* Version 1 participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
+  
+* Version 2’s NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!
+  Our recommendation on the results page isn’t enough to convince people.
 
 ### Reflection & Next Steps
 
