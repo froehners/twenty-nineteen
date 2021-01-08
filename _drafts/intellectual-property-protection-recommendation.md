@@ -47,7 +47,8 @@ hide_header: false
   * It’s difficult to predict content when there is no order
 * Icons have inconsistent levels of complexity. The more complicated icons are too difficult to break down into [geons](https://en.wikipedia.org/wiki/Geon_(psychology)#:\~:text=Geons%20are%20the%20simple%202D,of%20objects%20in%20the%20brain.), which would allow customer brains to recognize the icon quicker.
 * Language may not match how customers classify their work.
-  ![Screenshot of a results with 2 equally weighted suggestions](/images/og-results.jpg "combination trademark copyright")
+
+* ![Screenshot of a results with 2 equally weighted suggestions](/images/og-results.jpg "combination trademark copyright")
 * Results page
   * Users expect to see reasoning behind the results. Expect to be aided in decisions. Not all results provide a clear recommendation or a way to decide on a product
   * Pricing and packages and LegalZoom’s role are not clear on results page
@@ -75,6 +76,8 @@ hide_header: false
 * Where are the potential gaps in the choices we provide?
 
 ## Customer Research
+
+![](/images/cs-open.png)
 
 1. **Card Sorting.** I picked about 20 commonly protected works from the United States Patent and Trademark Office, various online services, included us, (e.g. photograph, process, book, invention, logo, song) and asked participants to sort the cards into groups and answer a short survey.
    1. **Phase 1: Open**
