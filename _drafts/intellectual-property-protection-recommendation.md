@@ -42,17 +42,21 @@ hide_header: false
 
 ![title asks "What would you like to protect?" each of the 9 options has an icon and a label](/images/og-q1.jpg "original experience")
 
+#### The Quiz
+
 * Currently an unordered group of 9 items
   * Studies have shown people make decisions easier with less choices
   * It’s difficult to predict content when there is no order
 * Icons have inconsistent levels of complexity. The more complicated icons are too difficult to break down into [geons](https://en.wikipedia.org/wiki/Geon_(psychology)#:\~:text=Geons%20are%20the%20simple%202D,of%20objects%20in%20the%20brain.), which would allow customer brains to recognize the icon quicker.
 * Language may not match how customers classify their work.
 
-* ![Screenshot of a results with 2 equally weighted suggestions](/images/og-results.jpg "combination trademark copyright")
-* Results page
-  * Users expect to see reasoning behind the results. Expect to be aided in decisions. Not all results provide a clear recommendation or a way to decide on a product
-  * Pricing and packages and LegalZoom’s role are not clear on results page
-  * Do users expect to find out what protection our IP services offer, timelines, and level of effort?
+![Screenshot of a results with 2 equally weighted suggestions](/images/og-results.jpg "combination trademark copyright")
+
+#### The Recommendation
+
+* Data/reasoning behind the results is not included. Users expect to be aided in decisions. Not all results provide a clear recommendation or a way to decide on a product
+* Pricing and packages and LegalZoom’s role are not clear on results page
+* Do users expect to find out what protection our IP services offer, timelines, and level of effort?
 
 ### Data
 
@@ -77,30 +81,43 @@ hide_header: false
 
 ## Customer Research
 
-![](/images/cs-open.png)
+### 1. Card Sorting
 
-1. **Card Sorting.** I picked about 20 commonly protected works from the United States Patent and Trademark Office, various online services, included us, (e.g. photograph, process, book, invention, logo, song) and asked participants to sort the cards into groups and answer a short survey.
-   1. **Phase 1: Open**
-      * "Art" cards were overwhelmingly the easiest for folks. Second was business - sometimes called “branding”
-      * Seeing all the cards in groups helped solidify their classification _(which reminds me of partitioning/the power of groups from the workshop)_
-   2. **Phase 2: Hybrid**
-      * I provided 3 categories from the Open results. The first two categories were clear winners from the Open Card Sorting, the 3rd was experimental.
-      * Works that would require patents emerged as the hardest IP to categorize. (Low patent numbers  site analytics too)
-2. **Prototyping.** The team decided to use the questionnaire component of the existing design system. The variations are content-driven.
-   1. **Version 1: Optimized**
-      * Keep the 1-question flow, but reduce the number of options to broad categories and add descriptions.
-      * Hypotheses:
-        1. Participants will be more successful if we reduce the number of options. The legal team and copywriters felt comfortable combining the “Art” choices since most of the card sorting participants always grouped those together.
-        2. Educating the users with descriptions and friendlier language will clarify the options. The confusing cards from the card sorting study were added as examples in the descriptions.
-   2. **Version 2: Experimental**
-      * Make a 2-question flow, partition people into roles (business owner, artist, or inventor) and have more specific choices on the second screen.
-      * Hypotheses:
-        1. If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience.
-        2. We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
-3. **Unmoderated Tests.** First round is focused on our largest audience: future small business owners. The pages before and after the “Help me decide” experience - including the results pages were identical. Participants only saw one version and the results from the two studies were compared.
-   1. Version 1 participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
-   2. Version 2’s NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!
-   3. Our recommendation on the results page isn’t enough to convince people.
+I picked about 20 commonly protected works from the United States Patent and Trademark Office, various online services, included us, (e.g. photograph, process, book, invention, logo, song) and asked participants to sort the cards into groups and answer a short survey.
+
+#### ![](/images/cs-open.png)
+
+Phase 1: Open
+
+* "Art" cards were overwhelmingly the easiest for folks. Second was business - sometimes called “branding”
+* Seeing all the cards in groups helped solidify their classification _(which reminds me of partitioning/the power of groups from the workshop)_
+
+#### ![](/images/cs-hybrid.png)
+
+Phase 2: Hybrid
+
+* I provided 3 categories from the Open results. The first two categories were clear winners from the Open Card Sorting, the 3rd was experimental.
+* Works that would require patents emerged as the hardest IP to categorize. (Low patent numbers  site analytics too)
+
+### 2. Prototyping
+
+The variations are content-driven; the team decided to use the existing questionnaire component of the  design system.  ![](/images/hmd-v1.png)
+
+* **Version 1: Optimized**
+* Keep the 1-question flow, but reduce the number of options to broad categories and add descriptions.
+* **Hypotheses:**
+* Participants will be more successful if we reduce the number of options. The legal team and copywriters felt comfortable combining the “Art” choices since most of the card sorting participants always grouped those together.
+* Educating the users with descriptions and friendlier language will clarify the options. The confusing cards from the card sorting study were added as examples in the descriptions.
+* **Version 2: Experimental**
+* Make a 2-question flow, partition people into roles (business owner, artist, or inventor) and have more specific choices on the second screen.
+* **Hypotheses:**
+* If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience. 2. We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
+
+### Unmoderated Tests.
+  First round is focused on our largest audience: future small business owners. The pages before and after the “Help me decide” experience - including the results pages were identical. Participants only saw one version and the results from the two studies were compared.
+  Version 1 participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
+  Version 2’s NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!
+  Our recommendation on the results page isn’t enough to convince people.
 
 ### Reflection & Next Steps
 
