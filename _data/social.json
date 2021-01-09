@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Goodreads",
+      "icon": "goodreads-g",
+      "url": "goodreads.com/froehner"
+    },
+    {
       "type": "instagram",
       "title": "Instagram",
       "icon": "fa-instagram",
