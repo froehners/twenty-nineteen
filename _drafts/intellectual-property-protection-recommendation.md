@@ -1,29 +1,30 @@
 ---
 layout: post
-title: Intellectual Property Protection Recommendation
+title: IP Protection Product Recommendation
 subtitle: ''
 date: 2021-01-31 08:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
-excerpt: Revamping the recommendation experience when customers say, "Help me decide"
+excerpt: Revamping the intellectual property recommendation experience when customers
+  say, "Help me decide"
 hide_header: false
 
 ---
 # Background
 
 * Broadly, our research has shown people want quizzes or recommendation wizards to narrow down the different legal services they may need.
-* For Intellectual Property (IP) LegalZoom has a simple 1-question “Help me decide'' tool on the IP Category page. Testing participants would often be excited to see the tool, but find the actual experience and recommendations disappointing.
-* This work was done in concert with a case study project for [Smashing Magazine Behavioral Design Workshop](https://smashingconf.com/online-workshops/workshops/susan-guthrie-weinschenk) (highly recommended!)
+* For Intellectual Property (IP) LegalZoom has a simple 1-question “Help me decide'' tool on the IP Category page. Testing participants would often be excited to see the CTA button, but found the actual experience and recommendations disappointing.
+* This work was done in concert with a case study project for [Smashing Magazine Behavioral Design Workshop](https://smashingconf.com/online-workshops/workshops/susan-guthrie-weinschenk) _(highly recommended!)_
 
 ## Goals & Requirements
 
-### Target Audiences
+### Target Audience Goals
 
 * **Small business owners:** protect their business name and products, be legally compliant, and set up their business correctly
-* **Musicians & writers:** protect their songs, scripts, books, etc. and prevent others from copying or profiting off their work
+* **Musicians, artists & writers:** protect their songs, scripts, books, etc. and prevent others from copying or profiting off their work
 * **Inventors:** claim their new product, invest in protecting their work now, for future benefits/gains
 
-### Company
+### Company Goals
 
 * Customer understands the product offering and **purchases the correct service** for their needs
 * Customer is able to purchase & complete their application **without Customer Care assistance**
@@ -34,7 +35,6 @@ hide_header: false
 * Conserve dev resources. Aim for copy and image changes.
 * Design for future design system compliance
 * Fix any large problems - identify “no regrets” changes
-* Include the new product, Attorney Led Trademark
 
 ## The Original Experience
 
@@ -50,7 +50,7 @@ hide_header: false
 * Icons have inconsistent levels of complexity. The more complicated icons are too difficult to break down into [geons](https://en.wikipedia.org/wiki/Geon_(psychology)#:\~:text=Geons%20are%20the%20simple%202D,of%20objects%20in%20the%20brain.), which would allow customer brains to recognize the icon quicker.
 * Language may not match how customers classify their work.
 
-#### The Recommendation
+#### Recommendation Page
 
 ![Screenshot of a results with 2 equally weighted suggestions](/images/og-results.jpg "combination trademark copyright")
 
@@ -101,11 +101,11 @@ I picked about 20 commonly protected works from the United States Patent and Tra
 
 ### 2. Prototyping
 
-The variations are content-driven; the team decided to use the existing questionnaire component of the  design system.
+The variations are content-driven; the team decided to use the existing questionnaire component of the  design system. Participants only saw one version and the results were compared. They had the same results pages. 
 
 #### Version 1: Optimized
 
-![](/images/hmd-v1.png)
+![Screen with 6 choices of IP specimen to protect](/images/hmd-v1.png "Prototype V.1")
 
 * Keep the 1-question flow, but reduce the number of options to broad categories and add descriptions.
 * **Hypotheses:**
@@ -114,34 +114,39 @@ The variations are content-driven; the team decided to use the existing question
 
 #### Version 2: Experimental
 
-![](/images/hmd-v2.png)
+![Two screens are shown, the first asks for role, the second asks what specimen will be protected.](/images/hmd-V2.png "Prototype V.2")
 
 * Make a 2-question flow, partition people into roles (business owner, artist, or inventor) and have more specific choices on the second screen.
 * **Hypotheses:**
   * If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience.
   * We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
 
+#### Recommendation Page
+
+![](/images/results.png)
+
+* Added clearer recommendation language, pricing, why consider a product, clear ways to get help, and educational content. 
+* Utilized pricing card, attorney/customer support, and article components from the design system. 
+* Experimenting to see how much can we reuse and where we need to invest more into the experience. 
+
 ### Unmoderated Tests.
 
 First round is focused on our largest audience: future small business owners. The pages before and after the “Help me decide” experience - including the results pages were identical. Participants only saw one version and the results from the two studies were compared.
 
-* Version 1 participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
-  
-* Version 2’s NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!
-  Our recommendation on the results page isn’t enough to convince people.
+* **Version 1** participants had a very high NPS score and scored their confidence in the results as 5/5. However, only 3/7 got a recommendation for the correct IP protection
+* **Version 2**'s NPS was 30 points lower and an average of 4.6 confidence score. Interestingly, all the participants chose the correct service!!
+* Our recommendation on the results page isn’t enough to convince people.
 
 ### Reflection & Next Steps
 
-I thought these results were wild! We clearly need to tinker and continue to test with both versions.
+I thought these results were wild! Version 1's hypothesis of combining cards was considered a "do no harm" win and Version 2's partitioning to reduce errors needs to be further proven. We'll continue to test both versions. 
 
 * How can we reduce the error rate on Version 1?
 * What are some other ways we can partition the choices?
 * We successfully reduced errors, but how can we increase confidence and improve the experience of Version 2?
-* Explore different ways people can validate their results (e.g. articles/faqs, statistics, real-life examples or case studies)
+* How can people validate their results (e.g. faqs, statistics, real-life examples or case studies)
 
-Expand the next round of unmoderated tests to include more audiences. When we get comfortable with the 2 versions, we’ll move on to moderated testing and eventually roll out to development and A/B testing.
-
-In the meantime, for the first phase of the redesign, we started with a logo change and updated the most confusing terms.
+We'll expand the next rounds of unmoderated and moderated tests to include more audiences. When we get comfortable with the 2 versions, a visual product designer will make sure everything is slick and ready for development and A/B testing. In the meantime, for the first phase of the redesign, we started with a logo and copy changes.
 
 * **Timeline:** \~4 weeks in Q3 2020, Phase 2 is scheduled for Q1 2021
 * **Team composition:** Copywriter, attorney, product marketer and 2 product designers
