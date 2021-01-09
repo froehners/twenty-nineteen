@@ -5,8 +5,10 @@ subtitle: ''
 date: 2021-01-09 05:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
-excerpt: Revamping the intellectual property recommendation experience when customers
-  say, "Help me decide"
+excerpt: Protecting Intellectual Property is confusing and time-consuming. Most people
+  don’t know what they need to protect their art or business and can get lost in all
+  the different opinions online. We are reevaluating the language we use and the support
+  we provide when our customers say, "Help me decide."
 hide_header: false
 
 ---
