@@ -2,7 +2,7 @@
 layout: post
 title: IP Protection Product Recommendation
 subtitle: ''
-date: 2021-01-31 08:00:00 +0000
+date: 2021-01-09 05:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
 excerpt: Revamping the intellectual property recommendation experience when customers
