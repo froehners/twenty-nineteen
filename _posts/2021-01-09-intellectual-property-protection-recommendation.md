@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring How to Recommend IP Protection Products
+title: Exploring How to Recommend IP Protection Services
 subtitle: ''
 date: 2021-01-09 05:00:00 +0000
 thumb_img_path: ''
