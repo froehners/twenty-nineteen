@@ -32,4 +32,4 @@ My visual design roles in this project include designing thumbnails for each You
 
 * **Date:** 2013
 * **Client:** Mahalo
-* **Category:** Content Strategy, User Experience, Product Design, Visual Design
+* **Category:** Content Strategy, User Experience, Visual Design
