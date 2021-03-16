@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Web-based Enterprise Resource Planning System
-subtitle: ''
+subtitle: I lead the redesign of complex, data-heavy workflows and modules to drive
+  the business leader of a complicated industry - traffic management.
 date: 2016-01-01 08:00:00 +0000
 thumb_img_path: ''
 content_img_path: "/images/unity-heatmap-md-1.jpg"
