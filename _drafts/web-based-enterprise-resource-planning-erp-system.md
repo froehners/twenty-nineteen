@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web-based Enterprise Resource Planning (ERP) System
+title: Web-based Enterprise Resource Planning System
 subtitle: ''
 date: 2016-01-01 08:00:00 +0000
 thumb_img_path: ''
@@ -20,13 +20,13 @@ TMI was using a Microsoft Access application to manage all their resources. It w
 ## Goals
 
 * **Better user experience.** Implement a feedback loop and reduce frustration. How can we make their workdays a little easier?
-* **Reduce errors.** Everyone used the previous solution a little differently.
+* **Reduce errors.** Everyone used the previous solution a little differently. The system did not prevent discrepancies. 
 * **Standardization.** Reduce "hacks" and employee workarounds. Eliminate tech debt and use consistent data conventions.
 * **Scale.** Be expandable and adaptable to evolving business needs
 
 ## Requirements
 
-* One system to handle all day to day operations
+* One system to handle all day-to-day operations
 * Convenient mobile access - eliminate the need for Remote Desktop
 * Clean, reliable data
 
@@ -45,19 +45,19 @@ Unity is used across the company. Access, capabilities, modules and views were b
 
 Because Unity is a system, we established a repeatable process.
 
-### Research & Discovery
+### 1. Research & Discovery
 
 * **Stakeholder Interviews & Workshops:** establish the purpose and business requirements
 * **User Interviews & Observation:** Get into the field and observe and document how people are solving the problem/using the old system now. We need to understand the people using the module.
 * **Heuristic/Usability Review:** If we are redesigning an existing module, where can we apply best practices
 * **Competitive/Comparative Analysis:** How have other people solved these problems? What can we learn from industry standards? Where will we innovate?
 
-### Plan & Strategize
+### 2. Plan & Strategize
 
 * **Brainstorm Solutions:** Whiteboards, workshops, and sketching constraint-free ideas.
 * **User Flows & Task Analysis:** map out the user’s flow to complete the tasks and how it fits into the larger system. Where else will this data be used?
 
-### Design
+### 3. Design
 
 ![](/images/un_empgroup-lg.jpg)
 
@@ -69,17 +69,17 @@ Because Unity is a system, we established a repeatable process.
 * **Validation:** Return to the people we are designing for and ask them to complete their tasks using our prototypes. Iterate if we identify any gaps in the experience.
 * **Documentation / UX Plan:** Outline every interaction state, edge case and everything else the engineering team may need to build
 
-### Development & Iteration
+### 4. Development
 
 ![](/images/un_planorders-lg.png)
 
 * **Collaborate:** Work with developers as they build the modules and QA throughout the process.
 * **Write release notes**: People using Unity need to know what was changing, why, and how they can provide feedback.
 
-### Ongoing Work: Feedback & Monitoring
+### 5. Ongoing Work: Feedback & Monitoring
 
-* **HotJar:** I watched playback sessions to find opportunities to improve and addressed all incoming feedback from the feedback widget. 
-* **Google Analytics:** Benchmarked and tracked behavior we were trying to improve.
+* **HotJar:** I watched playback sessions to find opportunities to improve and addressed all incoming feedback. 
+* **Google Analytics:** Benchmarking and tracking behavior allowed us to use data to drive decisions.
 
 # Results
 
@@ -88,7 +88,7 @@ We designed for accessibility and listened to user needs to improve the experien
 ### Highlights
 
 * Reduced design and development time by using repeatable patterns.
-* Implemented a performance budget. Unity is more lightweight and much faster to use than their previous solution. A budget allows us to balance design and engineering decisions.
+* Implemented a performance budget. Unity is more lightweight and much faster to use than their previous solution. A budget allowed us to balance design and engineering decisions.
 * Every module can adapt to a wide range of content sizes, meaning TMI is not constrained by project or client size.
 
 Modernizing the technology (Google for Work authentication, cloud-based hosting, responsive web components) made data more accessible and usable in and out of the offices. 
