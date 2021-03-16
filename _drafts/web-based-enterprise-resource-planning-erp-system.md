@@ -59,9 +59,9 @@ Because Unity is a system, we established a repeatable process.
 
 ### 3. Design
 
-![](/images/un_empgroup-lg.jpg)
+![Sketch and final module of "Employee groups"](/images/un_empgroup-lg.jpg)
 
-![](/images/un_dupcontact-lg.jpg)
+![Sketch and final module of "duplicate contacts" modal.](/images/un_dupcontact-lg.jpg)
 
 * **Sketches:** Work out solutions on paper/whiteboard
 * **Wireframes / Low Fidelity Mockups:** Show stakeholders and developers loose ideas to get feedback; work with the other designers to make sure the design system will be applied consistently and components will be reused effectively
@@ -78,7 +78,7 @@ Because Unity is a system, we established a repeatable process.
 
 ### 5. Ongoing Work: Feedback & Monitoring
 
-* **HotJar:** I watched playback sessions to find opportunities to improve and addressed all incoming feedback. 
+* [**HotJar**](https://www.hotjar.com/)**:** I watched playback sessions to find opportunities to improve and addressed all incoming feedback. 
 * **Google Analytics:** Benchmarking and tracking behavior allowed us to use data to drive decisions.
 
 # Results
