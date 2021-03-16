@@ -63,25 +63,36 @@ Because Unity is a system, we established a repeatable process.
 
 ![](/images/un_dupcontact-lg.jpg)
 
+* **Sketches:** Work out solutions on paper/whiteboard
+* **Wireframes / Low Fidelity Mockups:** Show stakeholders and developers loose ideas to get feedback; work with the other designers to make sure the design system will be applied consistently and components will be reused effectively
+* **Interactive Prototyping:** Make solutions look and feel “real” and  ready to validate
+* **Validation:** Return to the people we are designing for and ask them to complete their tasks using our prototypes. Iterate if we identify any gaps in the experience.
+* **Documentation / UX Plan:** Outline every interaction state, edge case and everything else the engineering team may need to build
+
 ### Development & Iteration
 
 ![](/images/un_planorders-lg.png)
 
-### Ongoing Work: Feedback & Monitoring 
+* **Collaborate:** Work with developers as they build the modules and QA throughout the process.
+* **Write release notes**: People using Unity need to know what was changing, why, and how they can provide feedback.
+
+### Ongoing Work: Feedback & Monitoring
+
+* **HotJar:** I watched playback sessions to find opportunities to improve and addressed all incoming feedback from the feedback widget. 
+* **Google Analytics:** Benchmarked and tracked behavior we were trying to improve.
 
 # Results
 
-We designed for accessibility and listened to user needs to improve the experience. We also implemented design standards and best practices.
+We designed for accessibility and listened to user needs to improve the experience. 
 
 ### Highlights
 
 * Reduced design and development time by using repeatable patterns.
-* Implemented a performance budget. Unity is more lightweight and much faster to use than their previous solution. A budget allows us to balance design and engineering decisions. 
+* Implemented a performance budget. Unity is more lightweight and much faster to use than their previous solution. A budget allows us to balance design and engineering decisions.
 * Every module can adapt to a wide range of content sizes, meaning TMI is not constrained by project or client size.
-* Improved visibility. Project managers can "watch" anything within Unity. They receive emails that notify them of any activity or change in status.
 
-**Date/Timeline:**
+Modernizing the technology (Google for Work authentication, cloud-based hosting, responsive web components) made data more accessible and usable in and out of the offices. 
 
-**Team composition:** 3 designers, 5 engineers, 1 project manager
-
-**Roles:** Design Lead, Product Designer
+* **Date:** 2015 - 2017
+* **Team composition:** 3 designers, 5 engineers, 1 project manager
+* **Roles:** Design Lead, Product Designer
